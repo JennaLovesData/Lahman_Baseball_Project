@@ -1,4 +1,4 @@
-## :baseball:	 Lahmen Baseball Project :baseball:	
+## :baseball:	 Lahman Baseball Project :baseball:	
 
 This project looks at over 20 tables including; teams, schools, managers, all stars, batting, fielding, pitching, any many more to examine the data. The Lamen Baseball Project uses joins, subqueries, CTE's, calculated columns, and writing a variety of quieries to examine the data and discover insights. 
 
