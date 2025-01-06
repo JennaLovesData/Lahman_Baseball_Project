@@ -9,7 +9,21 @@ This data has been made available [online](http://www.seanlahman.com/baseball-ar
 
 ## :toolbox:	Tools Used :toolbox:	
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 🎨 The Dashboard 🎨
+![11](https://github.com/user-attachments/assets/7c15be74-16a4-4f17-b989-cd5c1de1f3d6)
+
+![22](https://github.com/user-attachments/assets/8d0eef60-9cbd-4462-9392-e40e561b9269)
+
+![33](https://github.com/user-attachments/assets/5d764104-8812-4e29-8cbd-02676e577ba9)
+
+![44](https://github.com/user-attachments/assets/5c51d529-3715-40b0-bd29-c4c9736d3565)
+
+![55](https://github.com/user-attachments/assets/7d5a1d6b-f001-4ed5-834a-2c0dff80a0b5)
+
+![66](https://github.com/user-attachments/assets/9980e4d2-2e33-4c4c-8580-84c9ddb9a8a0)
+
 
 ## :question:	 The Questions :question:	
 
